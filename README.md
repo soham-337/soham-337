@@ -1,6 +1,6 @@
 # Hello, I'm Soham! 👋
 
-I'm a passionate student with a strong foundation in programming and web development. I thrive on solving complex pattern printing problems and enjoy turning ideas into reality through code.
+I'm a passionate student with a strong foundation in programming and web development. I thrive on solving complex pattern printing problems and enjoy bringing ideas to life through code.
 
 ## Skills 🛠️
 - **Programming Languages:** Python, JavaScript
