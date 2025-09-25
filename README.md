@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Soham! 👋
 
-<!--
-**soham-337/soham-337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student with a strong foundation in programming and web development. I thrive on solving complex pattern printing problems and enjoy turning ideas into reality through code.
 
-Here are some ideas to get you started:
+## Skills 🛠️
+- **Programming Languages:** Python, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Databases:** SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications 🎓
+- **Introduction to Database**
+
+## Passion Projects 💡
+I love tackling pattern printing challenges! If you have any interesting problems or projects in mind, feel free to share!
+
+## Collaboration 🤝
+I'm always open to new projects and collaborations. Let's connect and create something amazing together!
+
+Feel free to reach out to me via [GitHub](https://github.com/soham-337).
+
+Thanks for visiting my profile! 🌟
